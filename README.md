@@ -1,8 +1,13 @@
-## Hi there 👋
+## 🎥BIENVENIDOS 🎬CARLOS AMADO RIVERA👋
+## 💻 Lic. En ciencias de la computacion 
+## 📞Telefono Movil +503 7938-4816
+## 📭 E-mail carlos.cedillos@clases.edu.sv
+##  📝https://
 
+##
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
