@@ -4,7 +4,8 @@
 ## 📭 E-mail carlos.cedillos@clases.edu.sv
 ##  📝https://https://github.com/carloscedillos-ops
 
-##
+<img width="1376" height="768" alt="cr (2)" src="https://github.com/user-attachments/assets/d79ca982-354b-4364-be79-e286961b0b4d" />
+
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 
