@@ -4,7 +4,8 @@
 ## 📭 E-mail carlos.cedillos@clases.edu.sv
 ##  📝https://github.com/carloscedillos-ops
 
-<img width="1376" height="768" alt="cr (2)" src="https://github.com/user-attachments/assets/d79ca982-354b-4364-be79-e286961b0b4d" />
+<img width="1376" height="768" alt="CR IAAA" src="https://github.com/user-attachments/assets/646145e5-89a0-48e6-91b3-bb1b8b5bbdb7" />
+
 
 # Sobre mí
 # <img width="200" height="200" alt="CR" src="https://github.com/user-attachments/assets/913591e7-86b3-423d-b0a2-18b89824b577" />
