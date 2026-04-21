@@ -10,7 +10,7 @@
 # <img width="200" height="200" alt="CR" src="https://github.com/user-attachments/assets/913591e7-86b3-423d-b0a2-18b89824b577" />
 
 
-# Me gusta el deporte la Musica Rock las Carreras de autos deportivos, me llaman la atencion los autos clasicos, apasionado a la programacion y aprendizaje de nuevas herramientas tecnologicas. 
+# <h4>Me gusta el deporte la Musica Rock las Carreras de autos deportivos, me llaman la atencion los autos clasicos, apasionado a la programacion y aprendizaje de nuevas herramientas tecnologicas. </h4>
 
 # Tecnologías y herramientas
 
