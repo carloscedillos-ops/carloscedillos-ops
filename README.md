@@ -2,7 +2,7 @@
 ## 💻 Lic. En ciencias de la computacion 
 ## 📞Telefono Movil +503 7938-4816
 ## 📭 E-mail carlos.cedillos@clases.edu.sv
-##  📝https://https://github.com/carloscedillos-ops
+##  📝https://github.com/carloscedillos-ops
 
 <img width="1376" height="768" alt="cr (2)" src="https://github.com/user-attachments/assets/d79ca982-354b-4364-be79-e286961b0b4d" />
 
