@@ -18,7 +18,8 @@
 # N8n:  permite conectar aplicaciones, bases de datos y APIs para automatizar tareas repetitivas sin necesidad de programar.
 # <img width="1216" height="321" alt="n8n" src="https://github.com/user-attachments/assets/df0559f3-2fa7-40f1-9ed8-08686b5da259" />
 # La inteligencia artificial (IA) en la educación personaliza el aprendizaje, automatiza tareas administrativas y docentes, y ofrece feedback inmediato, mejorando el rendimiento académico.
-# <img width="2002" height="528" alt="KODIGO IA" src="https://github.com/user-attachments/assets/909fcb62-afd2-4476-88bb-049e68ffc96f" />
+# <img width="858" height="290" alt="IA" src="https://github.com/user-attachments/assets/66318b51-1b1e-4534-8579-0544e9be099f" />
+
 
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
