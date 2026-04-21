@@ -9,6 +9,11 @@
 # Sobre mí
 
 # Me gusta el deporte la Musica Rock las Carreras de autos deportivos, me llaman la atencion los autos clasicos, apasionado a la programacion y aprendizaje de nuevas herramientas tecnologicas. 
+
+# Tecnologías y herramientas
+
+# <img width="1216" height="321" alt="KODIGO" src="https://github.com/user-attachments/assets/9639dc8a-61ec-4cb5-b9f6-30991d4b0b95" />
+
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 
