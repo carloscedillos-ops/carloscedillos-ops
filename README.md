@@ -7,7 +7,7 @@
 <img width="1376" height="768" alt="cr (2)" src="https://github.com/user-attachments/assets/d79ca982-354b-4364-be79-e286961b0b4d" />
 
 # Sobre mí
-# <img width="300" height="200" alt="CR" src="https://github.com/user-attachments/assets/913591e7-86b3-423d-b0a2-18b89824b577" />
+# <img width="200" height="200" alt="CR" src="https://github.com/user-attachments/assets/913591e7-86b3-423d-b0a2-18b89824b577" />
 
 
 # Me gusta el deporte la Musica Rock las Carreras de autos deportivos, me llaman la atencion los autos clasicos, apasionado a la programacion y aprendizaje de nuevas herramientas tecnologicas. 
