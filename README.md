@@ -15,11 +15,17 @@
 # Tecnologías y herramientas
 
 # <img width="1216" height="321" alt="KODIGO" src="https://github.com/user-attachments/assets/9639dc8a-61ec-4cb5-b9f6-30991d4b0b95" />
-# N8n:  permite conectar aplicaciones, bases de datos y APIs para automatizar tareas repetitivas sin necesidad de programar.
+# <h4>N8n:  permite conectar aplicaciones, bases de datos y APIs para automatizar tareas repetitivas sin necesidad de programar.</h4>
 # <img width="1216" height="321" alt="n8n" src="https://github.com/user-attachments/assets/df0559f3-2fa7-40f1-9ed8-08686b5da259" />
-# La inteligencia artificial (IA) en la educación personaliza el aprendizaje, automatiza tareas administrativas y docentes, y ofrece feedback inmediato, mejorando el rendimiento académico.
+# <h4>La inteligencia artificial (IA) en la educación personaliza el aprendizaje, automatiza tareas administrativas y docentes, y ofrece feedback inmediato, mejorando el rendimiento académico.</h4>
 # <img width="858" height="290" alt="IA" src="https://github.com/user-attachments/assets/66318b51-1b1e-4534-8579-0544e9be099f" />
 
+# Proyectos destacados
+
+# <h4> Terminar con exito el curso de trasnformacion digital para la docencia tecnica </h4>
+
+# Contacto
+# www.linkedin.com/in/carlos-amado-rivera-cedillos-852b63404
 
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
