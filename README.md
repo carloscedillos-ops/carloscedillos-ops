@@ -27,6 +27,8 @@
 
 # Contacto
 # www.linkedin.com/in/carlos-amado-rivera-cedillos-852b63404
+# INFORMACION EXTRA
+<img width="904" height="1024" alt="CARLOS RIVERA" src="https://github.com/user-attachments/assets/9a2ddf22-39ca-4f4a-b147-1b57e1bd3eb2" />
 
 <!--
 **carloscedillos-ops/carloscedillos-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
